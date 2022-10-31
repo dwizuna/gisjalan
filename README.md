@@ -1,4 +1,4 @@
-# jalan
+# gisjalan
 
 <img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
@@ -6,7 +6,7 @@ sigjalan - Sistem Informasi Geografis kondisi jalan - www.firstplato.com
 
 > Preview dan demo, cekidot https://youtu.be/PdlbiUF0RoA atau coba langsung di https://lab.firstplato.com/jalan
 
-sigjalan - aplikasi JALAN KU - adalah aplikasi GIS atau SIG lokasi dan kualitas jalan, berbasis web dengan mempergunakan GMap API v3 terbaru dan native PHP. Dengan fitur :
+gisjalan - aplikasi JALAN KU - adalah aplikasi GIS atau SIG lokasi dan kualitas jalan, berbasis web dengan mempergunakan GMap API v3 terbaru dan native PHP. Dengan fitur :
 - well documented, easy to learn, ready for redeveloping and refactoring
 - responsive and adaptive on all devices, tested on PC, Laptop, mobile phone and tablet
 - dynamic title, description and footer note
